@@ -1,0 +1,63 @@
+CREATE DATABASE evaluation_msc;
+
+USE  evaluation_msc;
+
+
+CREATE TABLE instructor
+(
+insID VARCHAR(22),
+ fname CHAR(255) NOT NULL, 
+ lname CHAR(255) NOT NULL, 
+ CONSTRAINT instructorPK PRIMARY KEY(insID)
+ );
+
+CREATE TABLE class
+(
+cID INT,
+courseName VARCHAR(255) NOT NULL,
+ semester CHAR(22) NOT NULL,
+ year YEAR NOT NULL,
+ insID VARCHAR(22) NOT NULL, 
+ secNum INT NOT NULL, 
+ CONSTRAINT classInsFK FOREIGN KEY(insID) REFERENCES instructor (insID),
+ CONSTRAINT classPK PRIMARY KEY(cID)
+ );
+
+
+CREATE TABLE question
+(
+qID INT(10),
+content TEXT NOT NULL,
+type TEXT NOT NULL,
+CONSTRAINT questionPK PRIMARY KEY(qID)
+);
+
+
+CREATE TABLE student
+(
+sID VARCHAR(22) NOT NULL,
+CONSTRAINT studentPK PRIMARY KEY(sID)
+);
+
+
+ 
+CREATE TABLE enroll_in
+ (
+sID VARCHAR(22) NOT NULL,
+cID INT NOT NULL,
+CONSTRAINT enPK PRIMARY KEY(sID,cID),
+CONSTRAINT enStudentFK FOREIGN KEY(sID) REFERENCES student (sID),
+  CONSTRAINT enClassFK FOREIGN KEY(cID) REFERENCES class (cID)
+ );
+ 
+
+CREATE TABLE evaAnswer
+(
+cID INT,
+sID VARCHAR(22),
+answer TEXT, 
+qID INT,
+CONSTRAINT evaAnswerPK PRIMARY KEY(cID, sID, qID),
+CONSTRAINT evaAnswerEnrollFK FOREIGN KEY(cID,sID) REFERENCES enroll_in (cID,sID),
+ CONSTRAINT evaAnswerQueFK FOREIGN KEY(qID) REFERENCES question (qID)
+ );

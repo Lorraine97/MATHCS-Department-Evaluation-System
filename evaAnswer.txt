@@ -1,0 +1,596 @@
+
+
+
+1672	9c7d2f672bb140cb	1	0008				
+1672	35611da39ae8eeb1	1	0009				
+1981	2f3bc4bf5ce24531	1	0010				
+2781	bf95403eec5e2be7	1	0011				
+1981	2f3bc4bf5ce24531	1	0011				
+1672	35611da39ae8eeb1	1	0012				
+1672	9c7d2f672bb140cb	2	0007				
+1672	35611da39ae8eeb1	2	0008				
+3465	b37fa6fa53d0220c	2	0008				
+1672	35611da39ae8eeb1	2	0011				
+2781	bf95403eec5e2be7	2	0012				
+1620	322d6cb7a03ba380	2	0012				
+2781	bf95403eec5e2be7	3	0007				
+1672	35611da39ae8eeb1	3	0007				
+1981	2f3bc4bf5ce24531	3	0009				
+1620	322d6cb7a03ba380	3	0011				
+1621	cf885963fc86e1bf	3	0012				
+3465	d435678b497ec126	3	0012				
+3465	1e2a713addbedb87	3	0012				
+1621	b37fa6fa53d0220c	4	0007				
+2781	bf95403eec5e2be7	4	0008				
+1621	b37fa6fa53d0220c	4	0008				
+1981	2f3bc4bf5ce24531	4	0008				
+3465	d435678b497ec126	4	0009				
+5312	1f049ea76e595729	4	0010				
+3511	1e2a713addbedb87	4	0010				
+3465	b37fa6fa53d0220c	4	0010				
+3471	3fa7f5946e4620ff	4	0010				
+1672	9c7d2f672bb140cb	4	0011				
+1621	cf885963fc86e1bf	4	0011				
+1621	b37fa6fa53d0220c	4	0011				
+3465	d435678b497ec126	4	0011				
+3465	1e2a713addbedb87	4	0011				
+1672	9c7d2f672bb140cb	4	0012				
+1621	b37fa6fa53d0220c	4	0012				
+1620	322d6cb7a03ba380	5	0007				
+1981	2f3bc4bf5ce24531	5	0007				
+1621	cf885963fc86e1bf	5	0008				
+3465	d435678b497ec126	5	0008				
+1672	9c7d2f672bb140cb	5	0009				
+1621	b37fa6fa53d0220c	5	0009				
+5312	1f049ea76e595729	5	0009				
+3471	3fa7f5946e4620ff	5	0009				
+5037	74ae8a3e74b7fe56	5	0010				
+3511	1e2a713addbedb87	5	0011				
+3471	3c85f16b191f7e1d	5	0011				
+1981	2f3bc4bf5ce24531	5	0012				
+1621	cf885963fc86e1bf	6	0007				
+3465	d435678b497ec126	6	0007				
+1620	322d6cb7a03ba380	6	0008				
+5312	1f049ea76e595729	6	0008				
+3471	3c85f16b191f7e1d	6	0008				
+1620	322d6cb7a03ba380	6	0009				
+1621	cf885963fc86e1bf	6	0009				
+3465	1e2a713addbedb87	6	0009				
+1981	aff2bc00e46c6207	6	0009				
+3465	d435678b497ec126	6	0010				
+3465	1e2a713addbedb87	6	0010				
+5037	aff2bc00e46c6207	6	0010				
+3465	b37fa6fa53d0220c	6	0011				
+3471	3fa7f5946e4620ff	6	0011				
+1981	aff2bc00e46c6207	6	0011				
+3465	b37fa6fa53d0220c	6	0012				
+3471	3c85f16b191f7e1d	6	0012				
+5312	1f049ea76e595729	7	0007				
+3465	b37fa6fa53d0220c	7	0007				
+3471	3fa7f5946e4620ff	7	0007				
+3511	1e2a713addbedb87	7	0008				
+3465	1e2a713addbedb87	7	0008				
+1981	aff2bc00e46c6207	7	0008				
+2781	bf95403eec5e2be7	7	0009				
+5312	f177e90e46f0441b	7	0009				
+3511	1e2a713addbedb87	7	0009				
+3465	b37fa6fa53d0220c	7	0009				
+5037	8820a83e617cded8	7	0010				
+1981	aff2bc00e46c6207	7	0010				
+1971	45113574e7282f40	7	0011				
+3471	9e32681a3051e8d0	7	0011				
+1971	45113574e7282f40	7	0012				
+3471	9e32681a3051e8d0	7	0012				
+1981	aff2bc00e46c6207	7	0012				
+5312	f177e90e46f0441b	8	0007				
+3511	1e2a713addbedb87	8	0007				
+3465	1e2a713addbedb87	8	0007				
+3471	3c85f16b191f7e1d	8	0007				
+3513	b09592cae142f566	8	0007				
+5037	8820a83e617cded8	8	0007				
+5037	74ae8a3e74b7fe56	8	0007				
+1672	1c00807d46daee79	8	0008				
+5312	f177e90e46f0441b	8	0008				
+3471	9e32681a3051e8d0	8	0008				
+3471	3fa7f5946e4620ff	8	0008				
+3513	b09592cae142f566	8	0008				
+1672	1c00807d46daee79	8	0009				
+1971	45113574e7282f40	8	0009				
+3513	b09592cae142f566	8	0009				
+3471	9e32681a3051e8d0	8	0010				
+3513	b09592cae142f566	8	0010				
+3513	b09592cae142f566	8	0011				
+3511	1e2a713addbedb87	8	0012				
+3471	3fa7f5946e4620ff	8	0012				
+3513	b09592cae142f566	8	0012				
+5037	aff2bc00e46c6207	9	0007				
+1971	45113574e7282f40	9	0008				
+3514	8096ed6f81458725	9	0008				
+5312	f177e90e46f0441b	9	0010				
+1971	45113574e7282f40	9	0010				
+3471	3c85f16b191f7e1d	9	0010				
+5017	1268833ab0051ed4	9	0010				
+3514	8096ed6f81458725	9	0011				
+3514	8096ed6f81458725	9	0012				
+1672	1c00807d46daee79	10	0007				
+5312	1424f91742952bdd	10	0007				
+1971	45113574e7282f40	10	0007				
+3471	9e32681a3051e8d0	10	0007				
+3514	8096ed6f81458725	10	0007				
+3514	3c85f16b191f7e1d	10	0007				
+5017	1268833ab0051ed4	10	0007				
+1981	aff2bc00e46c6207	10	0007				
+5312	1424f91742952bdd	10	0008				
+3514	3c85f16b191f7e1d	10	0008				
+5312	1424f91742952bdd	10	0009				
+3471	9e32681a3051e8d0	10	0009				
+3471	3c85f16b191f7e1d	10	0009				
+3514	8096ed6f81458725	10	0009				
+3514	3c85f16b191f7e1d	10	0009				
+5312	1424f91742952bdd	10	0010				
+3514	8096ed6f81458725	10	0010				
+3514	3c85f16b191f7e1d	10	0010				
+1672	1c00807d46daee79	10	0011				
+3514	3c85f16b191f7e1d	10	0011				
+1672	1c00807d46daee79	10	0012				
+3514	3c85f16b191f7e1d	10	0012				
+5312	f177e90e46f0441b	0%	0003				
+3465	c0a50fa07ba2e84e	0%	0003				
+3511	1e2a713addbedb87	0%	0003				
+5017	1268833ab0051ed4	0%	0003				
+3471	3c85f16b191f7e1d	1-5%	0003				
+3514	8096ed6f81458725	1-5%	0003				
+3514	3c85f16b191f7e1d	1-5%	0003				
+5312	ea6974a0c3b474e1	11-15%	0003				
+3465	b37fa6fa53d0220c	11-15%	0003				
+3471	3fa7f5946e4620ff	11-15%	0003				
+3513	b09592cae142f566	11-15%	0003				
+5037	aff2bc00e46c6207	11-15%	0003				
+1981	aff2bc00e46c6207	11-15%	0003				
+1620	322d6cb7a03ba380	16-20%	0003				
+1621	b37fa6fa53d0220c	16-20%	0003				
+3465	d435678b497ec126	16-20%	0003				
+5037	8820a83e617cded8	16-20%	0003				
+1981	2f3bc4bf5ce24531	16-20%	0003				
+5037	74ae8a3e74b7fe56	21-25%	0003				
+1621	cf885963fc86e1bf	26-30%	0003				
+3512	cf834229a1574394	26-30%	0003				
+1971	c0a50fa07ba2e84e	31-40%	0003				
+1971	45113574e7282f40	31-40%	0003				
+1672	1c00807d46daee79	41-50%	0003				
+5312	1424f91742952bdd	41-50%	0003				
+1672	9c7d2f672bb140cb	51-60%	0003				
+1672	35611da39ae8eeb1	6-10%	0003				
+3512	c0a50fa07ba2e84e	6-10%	0003				
+3465	1e2a713addbedb87	6-10%	0003				
+3471	9e32681a3051e8d0	6-10%	0003				
+5312	1f049ea76e595729	61-80%	0003				
+2781	bf95403eec5e2be7	81-99%	0003				
+2781	bf95403eec5e2be7	A	0005				
+1621	cf885963fc86e1bf	A	0005				
+3465	c0a50fa07ba2e84e	A	0005				
+3512	c0a50fa07ba2e84e	A	0005				
+1971	c0a50fa07ba2e84e	A	0005				
+3465	1e2a713addbedb87	A	0005				
+3471	9e32681a3051e8d0	A	0005				
+3471	3c85f16b191f7e1d	A	0005				
+5017	1268833ab0051ed4	A lot of work	0016				
+5312	1424f91742952bdd	A lot of work 	0018				
+5312	f177e90e46f0441b	A-	0005				
+3511	1e2a713addbedb87	A-	0005				
+3514	3c85f16b191f7e1d	A-	0005				
+5017	1268833ab0051ed4	A-	0005				
+5312	f177e90e46f0441b	Agree	0013				
+5312	ea6974a0c3b474e1	Agree	0013				
+1971	45113574e7282f40	Agree	0013				
+3471	9e32681a3051e8d0	Agree	0013				
+3471	3fa7f5946e4620ff	Agree	0013				
+3514	3c85f16b191f7e1d	Agree	0013				
+3513	b09592cae142f566	Agree	0013				
+5037	8820a83e617cded8	Agree	0013				
+5312	f177e90e46f0441b	Agree	0014				
+1971	45113574e7282f40	Agree	0014				
+3471	9e32681a3051e8d0	Agree	0014				
+3514	8096ed6f81458725	Agree	0014				
+3513	b09592cae142f566	Agree	0014				
+1981	aff2bc00e46c6207	Agree	0014				
+5037	8820a83e617cded8	Algorithms are relevant to my research	0017				
+1672	1c00807d46daee79	Applied Mathematics	0004				
+3511	1e2a713addbedb87	Applied Mathematics	0004				
+3465	d435678b497ec126	Applied Mathematics	0004				
+3465	1e2a713addbedb87	Applied Mathematics	0004				
+3471	3c85f16b191f7e1d	Applied Mathematics	0004				
+3514	3c85f16b191f7e1d	Applied Mathematics	0004				
+5037	74ae8a3e74b7fe56	Applied Physics	0004				
+1981	2f3bc4bf5ce24531	Assignments were too open-ended	0016				
+1621	b37fa6fa53d0220c	B	0005				
+1981	aff2bc00e46c6207	B	0005				
+1672	9c7d2f672bb140cb	B-	0005				
+5037	74ae8a3e74b7fe56	B-	0005				
+1672	1c00807d46daee79	B+	0005				
+5312	ea6974a0c3b474e1	B+	0005				
+3471	3fa7f5946e4620ff	B+	0005				
+3514	8096ed6f81458725	B+	0005				
+3513	b09592cae142f566	B+	0005				
+5037	8820a83e617cded8	B+	0005				
+5312	1424f91742952bdd	Best teacher I've had	0015				
+1672	35611da39ae8eeb1	Biology	0004				
+1620	322d6cb7a03ba380	Biology	0004				
+5312	69fdcdafcd461dbb	Business	0004				
+3512	cf834229a1574394	Business	0004				
+3471	3fa7f5946e4620ff	Business	0004				
+5312	1424f91742952bdd	Business Administration	0004				
+5312	69fdcdafcd461dbb	C	0005				
+5312	1424f91742952bdd	C	0005				
+3465	d435678b497ec126	C	0005				
+5312	1f049ea76e595729	C-	0005				
+1971	45113574e7282f40	C+	0005				
+5037	aff2bc00e46c6207	C+	0005				
+1981	2f3bc4bf5ce24531	C+	0005				
+1621	cf885963fc86e1bf	Chemistry	0004				
+1621	b37fa6fa53d0220c	Chemistry	0004				
+1971	45113574e7282f40	Chemistry	0004				
+3465	b37fa6fa53d0220c	Chemistry	0004				
+3465	b37fa6fa53d0220c	"Coding exercises were pointless, material was haphazard"	0018	
+1672	9c7d2f672bb140cb	College Requirement Major	0006				
+1621	cf885963fc86e1bf	College Requirement Major	0006				
+1621	b37fa6fa53d0220c	College Requirement Major	0006				
+5312	f177e90e46f0441b	College Requirement Major	0006				
+3511	1e2a713addbedb87	College Requirement Major	0006				
+3465	d435678b497ec126	College Requirement Major	0006				
+3465	1e2a713addbedb87	College Requirement Major	0006				
+3471	9e32681a3051e8d0	College Requirement Major	0006				
+3514	8096ed6f81458725	College Requirement Major	0006				
+3514	3c85f16b191f7e1d	College Requirement Major	0006				
+3513	b09592cae142f566	College Requirement Major	0006				
+5017	1268833ab0051ed4	College Requirement Major	0006				
+1981	aff2bc00e46c6207	College Requirement Major	0006				
+5312	f177e90e46f0441b	Computer Science	0004				
+3471	9e32681a3051e8d0	Computer Science	0004				
+5017	1268833ab0051ed4	Computer Science	0004				
+3471	3fa7f5946e4620ff	Course notes are comprehensive and great	0017				
+5312	f177e90e46f0441b	Covers a lot of topics	0018				
+5312	69fdcdafcd461dbb	Covers modern databases	0017				
+5017	1268833ab0051ed4	Covers too much material	0018				
+3512	cf834229a1574394	D	0005				
+3465	b37fa6fa53d0220c	D-	0005				
+1620	322d6cb7a03ba380	D+	0005				
+2781	bf95403eec5e2be7	Disagree	0013				
+5037	aff2bc00e46c6207	Disagree	0013				
+1981	2f3bc4bf5ce24531	Disagree	0013				
+2781	bf95403eec5e2be7	Disagree	0014				
+1621	b37fa6fa53d0220c	Disagree	0014				
+5312	ea6974a0c3b474e1	Disagree	0014				
+3465	d435678b497ec126	Disagree	0014				
+3465	b37fa6fa53d0220c	Disagree	0014				
+5037	aff2bc00e46c6207	Disagree	0014				
+3465	d435678b497ec126	"Don't know why this class is required for Applied Mathematics major, it's useless"	0018				
+2781	bf95403eec5e2be7	Easy A	0015				
+1621	cf885963fc86e1bf	Easy class -- didn't need to goto class	0017				
+1981	2f3bc4bf5ce24531	Economics	0004				
+3512	c0a50fa07ba2e84e	Economics & Mathematics	0004				
+3514	8096ed6f81458725	Economics & Mathematics	0004				
+3511	1e2a713addbedb87	Expects a lot of his students	0016				
+1672	1c00807d46daee79	"Extremely knowledgeable and clear presentation, willing to help"	0015				
+1672	35611da39ae8eeb1	F	0005				
+1672	1c00807d46daee79	Female	0002				
+1672	9c7d2f672bb140cb	Female	0002				
+1621	cf885963fc86e1bf	Female	0002				
+5312	f177e90e46f0441b	Female	0002				
+5312	ea6974a0c3b474e1	Female	0002				
+3512	cf834229a1574394	Female	0002				
+3511	1e2a713addbedb87	Female	0002				
+1971	45113574e7282f40	Female	0002				
+3465	1e2a713addbedb87	Female	0002				
+3471	3fa7f5946e4620ff	Female	0002				
+3471	3c85f16b191f7e1d	Female	0002				
+3514	3c85f16b191f7e1d	Female	0002				
+3513	b09592cae142f566	Female	0002				
+5037	8820a83e617cded8	Female	0002				
+5037	aff2bc00e46c6207	Female	0002				
+1981	aff2bc00e46c6207	Female	0002				
+3512	c0a50fa07ba2e84e	Freshman	0001				
+1971	c0a50fa07ba2e84e	Freshman	0001				
+5312	ea6974a0c3b474e1	Senior and Graduate	0001				
+5312	1f049ea76e595729	Senior and Graduate	0001				
+5312	1424f91742952bdd	Senior and Graduate	0001				
+3465	d435678b497ec126	Senior and Graduate	0001				
+5037	aff2bc00e46c6207	Senior and Graduate	0001				
+1981	aff2bc00e46c6207	Senior and Graduate	0001				
+1981	2f3bc4bf5ce24531	Senior and Graduate	0001				
+1620	322d6cb7a03ba380	Freshman	0001				
+5017	1268833ab0051ed4	Senior and Graduate	0001				
+5037	8820a83e617cded8	Senior and Graduate	0001				
+5037	74ae8a3e74b7fe56	Senior and Graduate	0001				
+3471	9e32681a3051e8d0	Great notes	0017				
+1672	9c7d2f672bb140cb	He emphasizes random things and I learned nothing	0016				
+3511	1e2a713addbedb87	He holds a lot of office hours and is very helpful during them	0015				
+3471	9e32681a3051e8d0	He provides lots of examples in class.	0015				
+1620	322d6cb7a03ba380	He's nice enough	0015				
+3513	b09592cae142f566	Her tests are very hard	0016				
+1672	35611da39ae8eeb1	Hot girls take the class	0017				
+5037	aff2bc00e46c6207	I didn't understand any of the algorithms	0016				
+1620	322d6cb7a03ba380	I hate organic chemistry	0018				
+3514	8096ed6f81458725	I love her accent! 	0015				
+5312	ea6974a0c3b474e1	I would take it with Chueng for an easier grade	0016				
+5312	1f049ea76e595729	Interested	0006				
+5312	69fdcdafcd461dbb	Interested	0006				
+5312	1424f91742952bdd	Interested	0006				
+1971	45113574e7282f40	Interested	0006				
+3465	b37fa6fa53d0220c	Interested	0006				
+3471	3fa7f5946e4620ff	Interested	0006				
+5037	8820a83e617cded8	Interested	0006				
+5037	74ae8a3e74b7fe56	Interested	0006				
+5037	aff2bc00e46c6207	Interested	0006				
+1981	2f3bc4bf5ce24531	Interested	0006				
+3465	1e2a713addbedb87	"Learn to do more with computer science"	0017				
+3471	3fa7f5946e4620ff	Lectures can be boring	0016				
+3465	b37fa6fa53d0220c	Likes to make nerdy jokes	0015				
+2781	bf95403eec5e2be7	Male	0002				
+1672	35611da39ae8eeb1	Male	0002				
+1620	322d6cb7a03ba380	Male	0002				
+1621	b37fa6fa53d0220c	Male	0002				
+5312	1f049ea76e595729	Male	0002				
+5312	1424f91742952bdd	Male	0002				
+3465	c0a50fa07ba2e84e	Male	0002				
+3512	c0a50fa07ba2e84e	Male	0002				
+1971	c0a50fa07ba2e84e	Male	0002				
+3465	d435678b497ec126	Male	0002				
+3465	b37fa6fa53d0220c	Male	0002				
+3471	9e32681a3051e8d0	Male	0002				
+3514	8096ed6f81458725	Male	0002				
+5017	1268833ab0051ed4	Male	0002				
+5037	74ae8a3e74b7fe56	Male	0002				
+1981	2f3bc4bf5ce24531	Male	0002				
+5312	1424f91742952bdd	Material is so relevant	0017				
+3513	b09592cae142f566	Mathematics	0004				
+5037	8820a83e617cded8	Mathematics	0004				
+5312	ea6974a0c3b474e1	Mathematics & Computer Science	0004				
+5037	aff2bc00e46c6207	Mathematics & Computer Science	0004				
+1981	aff2bc00e46c6207	Mathematics & Computer Science	0004				
+1621	cf885963fc86e1bf	Neutral	0013				
+5312	1f049ea76e595729	Neutral	0013				
+3511	1e2a713addbedb87	Neutral	0013				
+3465	1e2a713addbedb87	Neutral	0013				
+3465	b37fa6fa53d0220c	Neutral	0013				
+3471	3c85f16b191f7e1d	Neutral	0013				
+3514	8096ed6f81458725	Neutral	0013				
+5037	74ae8a3e74b7fe56	Neutral	0013				
+1981	aff2bc00e46c6207	Neutral	0013				
+1620	322d6cb7a03ba380	Neutral	0014				
+1621	cf885963fc86e1bf	Neutral	0014				
+5312	1f049ea76e595729	Neutral	0014				
+3511	1e2a713addbedb87	Neutral	0014				
+3465	1e2a713addbedb87	Neutral	0014				
+3471	3fa7f5946e4620ff	Neutral	0014				
+3471	3c85f16b191f7e1d	Neutral	0014				
+5037	8820a83e617cded8	Neutral	0014				
+5037	74ae8a3e74b7fe56	Neutral	0014				
+3465	d435678b497ec126	Neutral 	0013				
+1981	2f3bc4bf5ce24531	Not relevant to anything I'm doing	0018				
+1672	35611da39ae8eeb1	Nothing good to say	0015				
+5037	aff2bc00e46c6207	Nothing good to say about her	0015				
+5312	1424f91742952bdd	Nothing to complain about	0016				
+3514	8096ed6f81458725	Nothing to complain about!	0018				
+1672	9c7d2f672bb140cb	Physics	0004				
+1672	35611da39ae8eeb1	Pre-Prof Requirement	0006				
+1620	322d6cb7a03ba380	Pre-Prof Requirement	0006				
+3465	c0a50fa07ba2e84e	Pre-Prof Requirement	0006				
+3512	c0a50fa07ba2e84e	Pre-Prof Requirement	0006				
+3512	cf834229a1574394	Pre-Prof Requirement	0006				
+1971	c0a50fa07ba2e84e	Pre-Prof Requirement	0006				
+3471	3c85f16b191f7e1d	Pre-Prof Requirement	0006				
+2781	bf95403eec5e2be7	Prerequisite	0006				
+2781	bf95403eec5e2be7	Quantitative Science	0004				
+3511	1e2a713addbedb87	Required course - so didn't expect much	0018				
+5037	8820a83e617cded8	Rushes through the topics	0016				
+1672	1c00807d46daee79	Sophomore	0001				
+1672	9c7d2f672bb140cb	Sophomore	0001				
+3465	c0a50fa07ba2e84e	Sophomore	0001				
+3512	cf834229a1574394	Sophomore	0001				
+3511	1e2a713addbedb87	Sophomore	0001				
+1971	45113574e7282f40	Sophomore	0001				
+3465	1e2a713addbedb87	Sophomore	0001				
+3471	9e32681a3051e8d0	Sophomore	0001				
+3471	3c85f16b191f7e1d	Sophomore	0001				
+3514	8096ed6f81458725	Sophomore	0001				
+3514	3c85f16b191f7e1d	Sophomore	0001				
+3513	b09592cae142f566	Sophomore	0001				
+5312	f177e90e46f0441b	She expects a lot from her students	0016				
+3513	b09592cae142f566	She has neat writing.	0015				
+3514	3c85f16b191f7e1d	She is amazing!!!	0015				
+5312	f177e90e46f0441b	She knows the material very well	0015				
+1981	2f3bc4bf5ce24531	She presents well	0015				
+5312	69fdcdafcd461dbb	She's good at presenting the use cases	0015				
+1981	aff2bc00e46c6207	"She's nice and friendly, fun in class"	0015				
+5017	1268833ab0051ed4	She's very knowledge about the subject	0015				
+5312	1f049ea76e595729	Sociology	0004				
+1621	cf885963fc86e1bf	Sophomore	0001				
+1621	b37fa6fa53d0220c	Sophomore	0001				
+1672	1c00807d46daee79	Strongly Agree	0013				
+5312	1424f91742952bdd	Strongly Agree	0013				
+5017	1268833ab0051ed4	Strongly Agree	0013				
+1672	1c00807d46daee79	Strongly Agree	0014				
+5312	1424f91742952bdd	Strongly Agree	0014				
+3514	3c85f16b191f7e1d	Strongly Agree	0014				
+5017	1268833ab0051ed4	Strongly Agree	0014				
+1672	9c7d2f672bb140cb	Strongly Disagree	0013				
+1672	35611da39ae8eeb1	Strongly Disagree	0013				
+1620	322d6cb7a03ba380	Strongly Disagree	0013				
+1621	b37fa6fa53d0220c	Strongly Disagree	0013				
+1672	9c7d2f672bb140cb	Strongly Disagree	0014				
+1672	35611da39ae8eeb1	Strongly Disagree	0014				
+1981	2f3bc4bf5ce24531	Strongly Disagree	0014				
+1672	9c7d2f672bb140cb	Suppose to be the easiest professor in theory	0015				
+3465	b37fa6fa53d0220c	Terrible at explaining algorithm analysis	0016				
+1672	35611da39ae8eeb1	Terrible class	0018				
+2781	bf95403eec5e2be7	Junior	0001				
+1672	35611da39ae8eeb1	Junior	0001				
+5312	f177e90e46f0441b	Junior	0001				
+3465	b37fa6fa53d0220c	Junior	0001				
+3471	3fa7f5946e4620ff	Junior	0001				
+5037	8820a83e617cded8	Too many class presentations and too many algorithms	0018				
+1971	45113574e7282f40	Too many quizzes	0018				
+5037	aff2bc00e46c6207	Too much math!	0018				
+1981	aff2bc00e46c6207	Too much programming involved with implementing the different algorithms	0018				
+3465	c0a50fa07ba2e84e	Undeclared	0004				
+1971	c0a50fa07ba2e84e	Undeclared	0004				
+3514	3c85f16b191f7e1d	Useful course for my major	0017				
+1971	45113574e7282f40	"Very engaged, loved the active learning"	0015				
+5017	1268833ab0051ed4	Very useful content	0017				
+3471	3fa7f5946e4620ff	Why is there so much relational algebra? Yuck	0018				
+5312	69fdcdafcd461dbb	Wish more SQL was covered	0018				
+3471	9e32681a3051e8d0	Wish there was more breadth	0018				
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							

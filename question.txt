@@ -1,0 +1,18 @@
+0001	Year	Multiple Choice
+0002	Sex	Multiple Choice
+0003	Class Missed	Multiple Choice
+0004	Major	Multiple Choice
+0005	Expected Grade	Multiple Choice
+0006	Reason Taking Course	Multiple Choice
+0007	How well organized was the class?	1-10
+0008	How concerned was the instructor with what students learned from the course?	1-10
+0009	Were the grading criteria for the course clear?	1-10
+0010	Was the instructor enthusiastic about the material?	1-10
+0011	How much did the course promote your progress on acquiring factual knowledge?	1-10
+0012	How much did the course promote your progress on understanding basic principles and concepts?	1-10
+0013	I would recommend this course to another student.	Agree/Disagree
+0014	I would recommend this instructor to another student.	Agree/Disagree
+0015	Comment on the strengths of the instructor	Open-Ended
+0016	Comment on the weaknesses of the instructor	Open-Ended
+0017	Comment on the strengths of the course	Open-Ended
+0018	Comment on the weaknesses of the course	Open-Ended
