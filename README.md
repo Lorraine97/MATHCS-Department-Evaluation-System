@@ -1,5 +1,5 @@
 # MATHCS-Department-Evaluation-System
-*A dynamic evaluation webpage that self-updates with authorized and proper input questions (PHP, CSS, MySQL)*
+*A dynamic evaluation webpage that self-updates with authorized and proper input questions (PHP, CSS, SQL, HTML)*
 
 ### - Background:
   - An evaluation database is initiated with MySQL based on raw data from some historical evaluation answer
